@@ -14,4 +14,4 @@ Note: Instead of using proxy, I enabled CORS plug-in inside Chrome. If the app d
 
 Hosting:
 
-Hosted at 
+Hosted at https://blockchain-project-220904.appspot.com/
